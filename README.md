@@ -16,6 +16,4 @@ This recipe only works for Franz 5.X, get it now at http://meetfranz.com
 
 3. Unzip and copy the `recipe-franz-jira` folder into the recipes dev directory
 
-4. Change the ServiceURL in package.json to your desired Jira instance
-
-5. Restart Franz
+4. Restart Franz
